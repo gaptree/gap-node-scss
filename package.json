@@ -1,0 +1,15 @@
+{
+  "name": "gap-node-scss",
+  "version": "1.0.0",
+  "description": "Compile scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gap",
+    "scss"
+  ],
+  "author": "zhanjh",
+  "license": "ISC"
+}
