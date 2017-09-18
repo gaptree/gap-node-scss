@@ -11,5 +11,9 @@
     "scss"
   ],
   "author": "zhanjh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "ssh://vcs@project.tecposter.cn/diffusion/22/gap-node-scss.git"
+  }
 }
