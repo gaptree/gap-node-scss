@@ -1,6 +1,6 @@
 {
   "name": "gap-node-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile scss",
   "main": "index.js",
   "scripts": {
