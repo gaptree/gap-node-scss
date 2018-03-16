@@ -12,7 +12,7 @@ yarn add gap-node-scss
 const scss = require('../index.js');
 
 scss.build({
-    inputDir: '/path/to/scss/dir,
+    inputDir: '/path/to/scss/dir',
     outputDir: '/path/to/css/dir',
     includePaths: [
         '/path/to/lib',
