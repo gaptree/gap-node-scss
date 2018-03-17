@@ -9,7 +9,7 @@ yarn add gap-node-scss
 ## Usage
 
 ```javascript
-const scss = require('../index.js');
+const scss = require('gap-node-scss');
 
 scss.build({
     inputDir: '/path/to/scss/dir',
@@ -26,7 +26,7 @@ scss.build({
 ```javascript
 const express = require('express');
 const path = require('path');
-const scss = require('../index.js');
+const scss = require('gap-node-scss');
 
 const app = express();
 const port = '8007';
