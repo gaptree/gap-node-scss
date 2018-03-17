@@ -30,9 +30,9 @@ const scss = require('gap-node-scss');
 
 const app = express();
 const port = '8007';
-const publicPath = 'css';
+const publicSlug = 'css';
 
-app.use('/' + publicPath, scss.middleware({
+app.use('/' + publicSlug, scss.middleware({
     inputDir: path.resolve(__dirname, 'src/scss'),
     outputDir: path.resolve(__dirname, 'dev/css'),
     includePaths: [
